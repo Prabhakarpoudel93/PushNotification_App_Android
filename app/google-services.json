@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701698952309",
+    "firebase_url": "https://wastecollectionnotifictionapp.firebaseio.com",
+    "project_id": "wastecollectionnotifictionapp",
+    "storage_bucket": "wastecollectionnotifictionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701698952309:android:d3a87ddba2b08721",
+        "android_client_info": {
+          "package_name": "androidpractise.com.prabhakar.garbagecollectionsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701698952309-hoj21gmbrrmdc6c0nmsr4otrd9br3l8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7YSOfGKYWVs_Jh_l8BZ9pSUVO5E0BjpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701698952309-hoj21gmbrrmdc6c0nmsr4otrd9br3l8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
